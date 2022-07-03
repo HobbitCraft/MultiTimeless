@@ -169,10 +169,7 @@ public static class Program
         PassiveHolder clusterResoluteTechnique = new PassiveHolder("Cluster Socket", "Resolute Technique",
             "Smashing Strikes", "Counterweight", "Whirling Barrier", "Bone Breaker", "Skull Cracking", "Disemboweling", "Vanquisher", "Shamanistic Fury", "Sanctum of Thought");
 
-        PassiveHolder suitsizesmall = new PassiveHolder("Expertise, Ancestral Knowledge, Sanctity, Dynamo", "Eternal Youth",
-            "Expertise", "Ancestral Knowledge", "Sanctity", "Dynamo");
-        PassiveHolder zzang23 = new PassiveHolder("Harrier, Foresight, Leadership", "Solipsism",
-            "Harrier", "Foresight", "Leadership");
+       
         //PassiveHolder FlyingV = new PassiveHolder("", "Solipsism")
         PassiveHolder Hobbit = new PassiveHolder("Divine Fury, Divine Judgement, Endurance, Devotion, Sanctum of Thought", "The Agnostic", "Divine Fury", "Divine Judgement", "Endurance", "Devotion", "Sanctum of Thought");
         PassiveHolder Kurosaki = new PassiveHolder("Heartseeker, Survivalist, Inveterate, Fervour, Herbalism, Winter Spirit, Quickstep", "Acrobatics", "Heartseeker", "Survivalist", "Inveterate", "Fervour", "Herbalism", "Winter Spirit", "Quickstep");
